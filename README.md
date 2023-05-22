@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+This is a project linked to the following frontend project : https://github.com/spvCodes123/E-commerce-frontend . This is a simple backend for a website that lists items in a marketplace which demonstrated simple CRUD operations over a MongoDB database.
+
 ## Installation
 
 ```bash
